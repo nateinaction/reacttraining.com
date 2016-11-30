@@ -44,7 +44,7 @@ var PromptContainer = React.createClass({
         header={this.props.route.header}
         username={this.state.username} />
     )
-	}
+  }
 });
 
 module.exports = PromptContainer;
